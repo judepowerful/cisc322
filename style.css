@@ -1,0 +1,27 @@
+.img-one {
+    margin: 10px 50px;
+    width: 300px;
+    height: 200px;
+    background-image: url(images/book1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-one:hover {
+    background-size: 200%;
+}
+
+.img-two {
+    width: 300px;
+    height: 200px;
+    background-image: url(images/sunset2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.img-two:hover {
+    background-size: 200%;
+    background-position: bottom;
+}
